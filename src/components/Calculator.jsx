@@ -4,6 +4,7 @@ import calculate from '../logic/calculate';
 import Button from './ButtonActions';
 
 export default class Calculator extends Component {
+	//constructor 
   constructor(props) {
     super(props);
     this.state = {
@@ -13,11 +14,11 @@ export default class Calculator extends Component {
     };
     this.btnOnClick = this.btnOnClick.bind(this);
   }
-
+//action listner for button object
   btnOnClick(buttonName) {
     this.setState((prevState) => (calculate(prevState, buttonName)));
   }
-
+//displaying the buttons in arrangement from css
   render() {
     const { total, next, opertation } = this.state;
     return (

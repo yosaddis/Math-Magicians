@@ -9,7 +9,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -50,9 +49,6 @@
 
 - [x] Setting up a react app.
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> [Live Demo Link](#)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
