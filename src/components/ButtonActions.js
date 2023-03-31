@@ -11,12 +11,14 @@ export default class Button extends Component {
     };
     this.btnOnClick = this.btnOnClick.bind(this);
   }
-//associating the button value with props
+
+  // associating the button value with props
   btnOnClick(nameButton) {
     const { btnOnClick } = this.props;
     btnOnClick(nameButton);
   }
-//creating a button using native html
+
+  // creating a button using native html
   render() {
     const { nameBtn, btnClass } = this.state;
     return <button type="button" className={btnClass} onClick={() => this.btnOnClick(nameBtn)}>{nameBtn}</button>;
