@@ -59,9 +59,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-
 ## Getting packages and dependencies
 To get all package modules required to build the project run:
 ```
@@ -104,8 +101,6 @@ npx eslint .
 - nodejs
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Yoseph Addisu**
 
