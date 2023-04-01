@@ -48,6 +48,8 @@
 ### Key Features <a name="key-features"></a>
 
 - [x] Setting up a react app.
+- [x] Develop a calculator app.
+- [x] Consume API using a react component.
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -65,6 +67,7 @@ To get a local copy up and running follow these simple example steps.
 
 - Internet connection
 - A github account
+
 ### Install <a name="install"></a>
 
 - copy the repo's link and clone it by writing `git clone https://github.com/yosaddis/math-magicians.git` on your git bash terminal.
