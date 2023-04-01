@@ -1,140 +1,107 @@
+![](https://img.shields.io/badge/yosaddis-green)
 
-<div align="center">
+# Math magicians
 
-  <h3><b>Math magician</b></h3>
+## 📗 Table of Contents
 
-</div>
-
-<!-- TABLE OF CONTENTS -->
-
-# 📗 Table of Contents
-
-- [📖 About the Project](#about-project)
+- [📖 Overview](#about-project)
+  - [Project Objectives](#project-objectives)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
-  - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
-#📖 [math magician] <a name="about-project"></a>
+## 📖 Overview <a name="about-project"></a>
 
 **[math magician]** is a Single Page Application (SPA) that allows users to make simple calculations, generate and read random math-related quotes and also tweet the quote.
 
-## 🛠 Built With <a name="built-with"></a>
+### Project Objectives <a name="project-objectives"></a>
 
-- React 
-- Linters
+- [x] set up the environment and tools needed to develop a React application
+
+## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> 
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<!-- Features -->
+- [react](https://react.dev/)
+- [npm](https://www.npmjs.com/)
+- [Git](https://git-scm.com/)
+- [GitHub](https://github.com)
+- [Stylelint](https://stylelint.io/)
+- [ESLint](https://eslint.org/)
+- [sass](https://sass-lang.com/)
+- [VSCode](https://code.visualstudio.com/)
+- [react router](https://reactrouter.com/)
 
 ### Key Features <a name="key-features"></a>
 
->Perform mathmatical calculations
+- [x] Setting up a react app.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Getting packages and dependencies
-To get all package modules required to build the project run:
-```
-npm install
-```
-every package module required to build the project is listed in the package.json file. this is used as a reference to get all dependencies.
+## 💻 Getting Started <a name="getting-started"></a>
 
-## Building 
+- [Optional] Install git bash to your machine to enable you to clone this repo.
+- install Visual Studio to be able to host a local live version.
+- Install a browser to view the local live version.
 
-To build the project run:
-```
-npm run build
-```
-after you run this sucessfully you'd locate the build from in the ```build``` folder located from the parent directory of the project.
+To get a local copy up and running follow these simple example steps.
+### Setup <a name="setup"></a>
 
-## Running
+- Open your GitHub account the repository's [link](https://github.com/yosaddis/math-magicians)
 
-To run the program on a browser through a server run this command in your cli
-```
-npm start
-```
-This should open the page in your localhost on port 3000. then you'd be able to view the built page generated using webpack.
+### Prerequisites <a name="prerequisites"></a>
 
-## Run tests
+- Internet connection
+- A github account
+### Install <a name="install"></a>
 
-For tracking linters errors locally, you need to follow these steps:
+- copy the repo's link and clone it by writing `git clone https://github.com/yosaddis/math-magicians.git` on your git bash terminal.
+- `npm install` to install the dependencies.
 
-- For tracking linter errors in CSS file run:
-``` 
-npx stylelint "**/*.{css,scss}"
-```
-- For tracking linter errors in Javascript file run:
-```
-npx eslint .
-```
-## Technologies Used
+### Run tests <a name="run-tests"></a>
 
-- React
-- GitHub
-- nodejs
+- You can check for errors by running linter tests found in the github flows.
 
-## 👥 Authors <a name="authors"></a>
+### Deployment <a name="deployment"></a>
+
+- run `npm run start` to run it locally.
+
+## Authors <a name="authors"></a>
 
 👤 **Yoseph Addisu**
 
-- GitHub: [@yosaddis](https://github.com/yosaddis)
-- Twitter: [@yosaddis](https://twitter.com/yosaddis)
+- [GitHub](https://github.com/yosaddis)
+- [Twitter](https://twitter.com/yosaddis)
 
+## 🔭 Future Features <a name="future-features"></a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- [ ] Add various page components.
 
-
-- [🔭 Future Features](#future-features)
-  - Use React to implement the calulator
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## Contributing
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-## Show your support
+Feel free to check the [issues page](../../issues/).
 
-Please give a ⭐️ if you like this project!
+## ⭐️ Show your support <a name="support"></a>
 
-## Acknowledgments
+Give a ⭐️ if you like this project!
 
-- Thanks to Microverse for the guiding contents.
+## 🙏 Acknowledgements <a name="acknowledgements"></a>
 
-## License
-<!-- LICENSE -->
+- [Microverse](https://www.microverse.org/)
 
 ## 📝 License <a name="license"></a>
-
-This project is. [MIT](./LICENSE.md) licensed.
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+This project is [MIT](./LICENSE) licensed.
