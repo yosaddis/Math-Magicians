@@ -1,6 +1,6 @@
 
 .app-page {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-content: space-between;
 }
