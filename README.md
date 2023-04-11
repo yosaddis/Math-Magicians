@@ -50,6 +50,8 @@
 - [x] Setting up a react app.
 - [x] Develop a calculator app.
 - [x] Consume API using a react component.
+- [x] Add navigation using react route.
+- [x] Add styling using react styled component.
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -90,7 +92,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] Add various page components.
+- [ ] Add test module to the project.
 
 ## 🤝 Contributing <a name="contributing"></a>
 
