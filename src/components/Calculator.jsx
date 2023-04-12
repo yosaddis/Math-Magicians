@@ -25,7 +25,7 @@ export default class Calculator extends Component {
     const { total, next, opertation } = this.state;
     return (
       <div className="main-container">
-        <div className="result-display">
+        <div className="result-display" data-testid="result-display">
           {total || ''}
           {opertation || ''}
           {next || ''}
