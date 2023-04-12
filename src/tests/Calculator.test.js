@@ -1,6 +1,6 @@
 import '@testing-library/jest-dom';
 import { render, screen } from '@testing-library/react';
-import userEvent from '@testing-library/user-event';
+// import userEvent from '@testing-library/user-event';
 import Calculator from '../components/Calculator';
 
 describe('Unit test for calculator component', () => {
@@ -12,7 +12,7 @@ describe('Unit test for calculator component', () => {
     render(<Calculator />);
     expect(screen.getByTestId('result-display')).toBeInTheDocument();
   });
-  
+
   test('The calculator snap shot should be rendered correctly', () => {
     const calculator = render(<Calculator />);
     expect(calculator).toMatchSnapshot();
