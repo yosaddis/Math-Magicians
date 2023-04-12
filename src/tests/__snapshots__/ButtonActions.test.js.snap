@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Unit test for button actions component renders correctly 1`] = `
+<button
+  className="btn-clear"
+  onClick={[Function]}
+  type="button"
+>
+  AC
+</button>
+`;

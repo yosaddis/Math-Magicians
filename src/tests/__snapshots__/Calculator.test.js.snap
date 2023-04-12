@@ -1,0 +1,312 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Unit test for calculator component The calculator snap shot should be rendered correctly 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="main-container"
+      >
+        <div
+          class="result-display"
+          data-testid="result-display"
+        >
+          0
+        </div>
+        <button
+          class="btn-light btn-zero"
+          type="button"
+        >
+          0
+        </button>
+        <button
+          class="btn-light btn-dot"
+          type="button"
+        >
+          .
+        </button>
+        <button
+          class="btn-ops btn-equal"
+          type="button"
+        >
+          =
+        </button>
+        <button
+          class="btn-light btn-clear"
+          type="button"
+        >
+          AC
+        </button>
+        <button
+          class="btn-light btn-toogle-sign"
+          type="button"
+        >
+          +/-
+        </button>
+        <button
+          class="btn-light btn-percentage"
+          type="button"
+        >
+          %
+        </button>
+        <button
+          class="btn-ops btn-divider"
+          type="button"
+        >
+          /
+        </button>
+        <button
+          class="btn-ops btn-multiply"
+          type="button"
+        >
+          x
+        </button>
+        <button
+          class="btn-ops btn-substract"
+          type="button"
+        >
+          -
+        </button>
+        <button
+          class="btn-ops btn-plus"
+          type="button"
+        >
+          +
+        </button>
+        <button
+          class="btn-light btn-one"
+          type="button"
+        >
+          1
+        </button>
+        <button
+          class="btn-light btn-two"
+          type="button"
+        >
+          2
+        </button>
+        <button
+          class="btn-light btn-three"
+          type="button"
+        >
+          3
+        </button>
+        <button
+          class="btn-light btn-four"
+          type="button"
+        >
+          4
+        </button>
+        <button
+          class="btn-light btn-five"
+          type="button"
+        >
+          5
+        </button>
+        <button
+          class="btn-light btn-six"
+          type="button"
+        >
+          6
+        </button>
+        <button
+          class="btn-light btn-seven"
+          type="button"
+        >
+          7
+        </button>
+        <button
+          class="btn-light btn-eight"
+          type="button"
+        >
+          8
+        </button>
+        <button
+          class="btn-light btn-nine"
+          type="button"
+        >
+          9
+        </button>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="main-container"
+    >
+      <div
+        class="result-display"
+        data-testid="result-display"
+      >
+        0
+      </div>
+      <button
+        class="btn-light btn-zero"
+        type="button"
+      >
+        0
+      </button>
+      <button
+        class="btn-light btn-dot"
+        type="button"
+      >
+        .
+      </button>
+      <button
+        class="btn-ops btn-equal"
+        type="button"
+      >
+        =
+      </button>
+      <button
+        class="btn-light btn-clear"
+        type="button"
+      >
+        AC
+      </button>
+      <button
+        class="btn-light btn-toogle-sign"
+        type="button"
+      >
+        +/-
+      </button>
+      <button
+        class="btn-light btn-percentage"
+        type="button"
+      >
+        %
+      </button>
+      <button
+        class="btn-ops btn-divider"
+        type="button"
+      >
+        /
+      </button>
+      <button
+        class="btn-ops btn-multiply"
+        type="button"
+      >
+        x
+      </button>
+      <button
+        class="btn-ops btn-substract"
+        type="button"
+      >
+        -
+      </button>
+      <button
+        class="btn-ops btn-plus"
+        type="button"
+      >
+        +
+      </button>
+      <button
+        class="btn-light btn-one"
+        type="button"
+      >
+        1
+      </button>
+      <button
+        class="btn-light btn-two"
+        type="button"
+      >
+        2
+      </button>
+      <button
+        class="btn-light btn-three"
+        type="button"
+      >
+        3
+      </button>
+      <button
+        class="btn-light btn-four"
+        type="button"
+      >
+        4
+      </button>
+      <button
+        class="btn-light btn-five"
+        type="button"
+      >
+        5
+      </button>
+      <button
+        class="btn-light btn-six"
+        type="button"
+      >
+        6
+      </button>
+      <button
+        class="btn-light btn-seven"
+        type="button"
+      >
+        7
+      </button>
+      <button
+        class="btn-light btn-eight"
+        type="button"
+      >
+        8
+      </button>
+      <button
+        class="btn-light btn-nine"
+        type="button"
+      >
+        9
+      </button>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
