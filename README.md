@@ -54,6 +54,8 @@
 - [x] Add styling using react styled component.
 - [x] Add test module to the project.
 
+#Live Demo [here](https://math-magician1.onrender.com/)
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
 - [Optional] Install git bash to your machine to enable you to clone this repo.
