@@ -53,6 +53,7 @@
 - [x] Add navigation using react route.
 - [x] Add styling using react styled component.
 
+Live demo [here](https://math-magician1.onrender.com/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
