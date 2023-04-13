@@ -52,8 +52,7 @@
 - [x] Consume API using a react component.
 - [x] Add navigation using react route.
 - [x] Add styling using react styled component.
-
-Live demo [here](https://math-magician1.onrender.com/)
+- [x] Add test module to the project.
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -91,9 +90,15 @@ To get a local copy up and running follow these simple example steps.
 - [GitHub](https://github.com/yosaddis)
 - [Twitter](https://twitter.com/yosaddis)
 
+👤 **Therese Tuyisabe**
+
+- GitHub: [@githubhandle](https://github.com/theresetuyi)
+- Twitter: [@twitterhandle](https://twitter.com/THERESETUYISAB2)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/therese-theddy-tuyisabe-249820203/)
+
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] Add test module to the project.
+- deploy in github pages
 
 ## 🤝 Contributing <a name="contributing"></a>
 
